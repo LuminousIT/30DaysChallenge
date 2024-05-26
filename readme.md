@@ -39,7 +39,7 @@ For the next 30 Days;
 
 ## Day One <a name="Dayone" />
 - Data Structure and Algorithms
-- Python Projects
-- Fitness
-- Deutsche
+- Accessiweb
+- Home work
+- Deutsche letter
 

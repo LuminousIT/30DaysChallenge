@@ -1,4 +1,4 @@
 ### Progress Monitor
 
 #### Day One
-- [x] 
+- [x] Solved Daily temperature problem on [leetcode](https://leetcode.com/problems/daily-temperatures/) using stack pattern
