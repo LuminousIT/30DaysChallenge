@@ -11,3 +11,8 @@
 **Learned something new?**
 - when you don't follow shadcn install instructions strictly, expect some funny issues like css not showing. Renaming tailwind.config.js to .ts and make sure app/global.css is within src/ directory is a good debug start point. Spent an unholy amount of time fixing this seemingly simple thing.
 
+
+#### Day Two
+- AccessiWeb Home, History, Profile page
+
+

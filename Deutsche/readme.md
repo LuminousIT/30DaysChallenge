@@ -9,4 +9,12 @@
 
 
 #### Learned something new
-
+- "...ist es immer noch Wochenende" => ...it is still the weekend.
+  
+**New Word Alert**
+- geschafft - achieved
+- Fähligkeit - Skill
+- tägliches - daily
+- Fortschritt - Progress
+- auf dem weg - on my way
+- einschätzen - reassess

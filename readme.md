@@ -36,10 +36,16 @@ For the next 30 Days;
 
 ### Progress Tracker
 - [Day One ](#day-one-)
+- [Day Two](#day-two)
 
 ## Day One <a name="Dayone" />
 - Data Structure and Algorithms
 - Accessiweb
-- Home work
+- Home workout
 - Deutsche letter
 
+## Day Two 
+- DSA - Solved Binary Search easy problem
+- Accessiweb - built the home, history, profile page
+- Ich schreibe eine Brief über mein Wohnung und meinen Nachbarin 
+- Home workout
