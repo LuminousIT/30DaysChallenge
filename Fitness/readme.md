@@ -30,3 +30,13 @@ Routine
 - [x] Squats
 - [x] Leg Lifts [10] [10]
 
+#### Day Three [Home Workout]
+- [x] Stretch 
+- [x] Push-Up [30] 
+- [x] Leg raise Sit-up [15]
+- [x] Side to side set [30]
+- [x] Plank [1.20]min
+- [x] Back stretch 
+- [x] Squats
+- [x] Leg Lifts [10] [10]
+

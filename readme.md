@@ -37,6 +37,7 @@ For the next 30 Days;
 ### Progress Tracker
 - [Day One ](#day-one-)
 - [Day Two](#day-two)
+- [Day Three](#day-three)
 
 ## Day One <a name="Dayone" />
 - Data Structure and Algorithms
@@ -48,4 +49,10 @@ For the next 30 Days;
 - DSA - Solved Binary Search easy problem
 - Accessiweb - built the home, history, profile page
 - Ich schreibe eine Brief über mein Wohnung und meinen Nachbarin 
+- Home workout
+
+## Day Three 
+- DSA - Solved 2D Matrix search medium problem
+- Accessiweb - started working on responsive navigation
+- Ich schreibe eine Brief über mir. 
 - Home workout

@@ -15,4 +15,6 @@
 #### Day Two
 - AccessiWeb Home, History, Profile page
 
-
+#### Day Three
+- Started working on Accessiweb responsive navigation
+- 
