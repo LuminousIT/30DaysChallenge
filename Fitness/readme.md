@@ -40,3 +40,13 @@ Routine
 - [x] Squats
 - [x] Leg Lifts [10] [10]
 
+
+#### Day Four [Home Workout]
+- [x] Stretch 
+- [x] Push-Up [25] 
+- [x] Leg raise Sit-up [10]
+- [x] Side to side set [30]
+- [x] Plank [1.12]min
+- [x] Back stretch 
+- [x] Squats
+- [x] Leg Lifts [10] [10]

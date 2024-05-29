@@ -18,3 +18,7 @@
 #### Day Three
 - Started working on Accessiweb responsive navigation
 - 
+
+### Day Four
+- Rewrote navigation to be responsive
+- 
