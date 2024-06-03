@@ -50,3 +50,13 @@ Routine
 - [x] Back stretch 
 - [x] Squats
 - [x] Leg Lifts [10] [10]
+
+#### Day Five [Home Workout]
+- [x] Stretch 
+- [x] Push-Up [25] 
+- [x] Leg raise Sit-up [10]
+- [x] Side to side set [30]
+- [ ] Plank 
+- [x] Back stretch 
+- [x] Squats
+- [x] Leg Lifts [10] -> [1]

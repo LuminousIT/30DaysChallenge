@@ -11,3 +11,13 @@
 - [x] Solved 2D Matrix search using Binary Search Algorithm problem on [leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/) 
 - [x] 
 
+#### Day Four
+- [x] Solved min banana eating using Binary Search Algorithm problem on [leetcode]() 
+- [x] 
+
+#### Day Five
+- [x] Solved search rotated aray using Binary Search Algorithm problem on [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) 
+- [x] 
+
+
+

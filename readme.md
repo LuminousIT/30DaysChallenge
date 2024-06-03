@@ -39,6 +39,7 @@ For the next 30 Days;
 - [Day Two](#day-two)
 - [Day Three](#day-three)
 - [Day Four](#day-four)
+- [Day Five](#day-five)
 
 ## Day One <a name="Dayone" />
 - Data Structure and Algorithms
@@ -63,5 +64,12 @@ For the next 30 Days;
 - DSA - Solved Koko eating bananas leetcode medium problem
 - Accessiweb - started working on responsive navigation
 - Ich schreibe einen Brief über meinen abschluss. 
+- Home workout
+
+
+## Day Five 
+- DSA - Solved search in sorted array leetcode medium problem
+- Agroweb - started working on backend for ecommerce website
+- Revised grammatical errors from previously written letters
 - Home workout
 

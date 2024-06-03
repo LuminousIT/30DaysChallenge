@@ -21,4 +21,6 @@
 
 ### Day Four
 - Rewrote navigation to be responsive
-- 
+
+### Day Five
+- Setup base repo for Agroweb Django project. Backend for an ecommerce website
