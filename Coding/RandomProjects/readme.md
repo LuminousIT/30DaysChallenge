@@ -24,3 +24,11 @@
 
 ### Day Five
 - Setup base repo for Agroweb Django project. Backend for an ecommerce website
+
+### Day Six
+- 
+
+### Day Seven
+- Figuring out docker for Accessiweb project
+- Binding API backend with Accessiweb project 
+-  

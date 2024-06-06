@@ -60,3 +60,23 @@ Routine
 - [x] Back stretch 
 - [x] Squats
 - [x] Leg Lifts [10] -> [1]
+
+#### Day Six [Home Workout]
+- [x] Stretch 
+- [x] Push-Up [30] 
+- [x] Leg raise Sit-up [10]
+- [x] Side to side set [30]
+- [ ] Plank 
+- [x] Back stretch 
+- [x] Squats
+- [x] Leg Lifts [10] -> [1]
+
+#### Day Seven [Home Workout]
+- [x] Stretch 
+- [x] Push-Up [30] 
+- [x] Leg raise Sit-up [10] x 2
+- [x] Side to side set [40]
+- [ ] Plank 
+- [x] Back stretch 
+- [x] Squats
+- [x] Leg Lifts [10] -> [1]
